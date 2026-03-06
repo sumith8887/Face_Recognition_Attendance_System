@@ -4,3 +4,11 @@ numpy
 pandas
 streamlit
 mlflow
+scikit-learn
+joblib
+facenet-pytorch
+torch
+pickle
+datetime
+tempfile
+tensorflow
